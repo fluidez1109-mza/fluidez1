@@ -88,7 +88,7 @@ document.getElementById('btn-config').addEventListener('click', () => {
 
 /* ---------- pantalla configuración ---------- */
 /* ---------- URL de Apps Script ---------- */
-const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbwOG_FaM7FcVVi-7j8VzWOGlhV9UvD-wteVAH0hSpCZ3oC4IGBEx2IssSqqlIhw1U6e/exec';
+const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbxzKtIccXs2z5WYcYUCVhmUAl9kgvxaGozWBXtKWfnJcjr9kYzCg7uurkj63GGzbdoV/exec';
 
 /* ---------- biblioteca de lecturas (6) ---------- */
 const LECTURAS_DEFAULT = [
